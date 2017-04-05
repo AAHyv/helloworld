@@ -6,7 +6,7 @@ I really hope it will since there is no example to look at anymore while he look
 
 ## We love GITHUB
 
-Who doesn'?
+Who doesn't?
 
 
 ## We love Linux even more
@@ -17,3 +17,5 @@ Hopefully this will look right
 	$pwd
 	cd home/
 
+
+Tryouts by Anna Hyvärinen
